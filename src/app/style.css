@@ -17,3 +17,8 @@ body {
 .navbar .nav-link:hover {
   color: #333 !important;
 }
+
+.middle-menu-nav .nav-link:hover {
+  color: #00BFFF !important;
+  text-shadow: 0 0 8px #00BFFF;
+}
